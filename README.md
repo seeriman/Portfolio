@@ -5,5 +5,6 @@
 Freelance olarak ve grafik tasarım alanlarında özgün, amaca uygun ve en güncel trendleri göz önünde bulundurarak profesyonel işler çıkartmaktayım.
 
 
-<h2> Ekran </h2>
+<h2> Ekran Görüntüsü </h2>
+
 ! [] (ekran.gif)
