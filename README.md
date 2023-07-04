@@ -7,4 +7,4 @@ Freelance olarak ve grafik tasarım alanlarında özgün, amaca uygun ve en gün
 
 <h2> Ekran Görüntüsü </h2>
 
-! [] (ekran.gif)
+![](ekran.gif)
